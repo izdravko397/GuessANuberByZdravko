@@ -7,3 +7,9 @@ This is a simle console game "Guess A  Number"
 <img alt="Image" width="600px" src="https://www.teachwithict.com/uploads/5/5/8/2/5582303/published/guess-the-number.png?1611311296" />
 
 My [Source Code](guess_a_number.py)
+
+## Live Demo
+
+You can play the game directly online in your Web browser here: https://replit.com/@zdravkoivanov/Guess-a-Number
+
+![image](https://github.com/izdravko397/GuessANuberByZdravko/assets/133270937/8bffec15-14f9-4823-8eb5-7cd8d45220fc)
